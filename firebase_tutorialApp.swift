@@ -18,7 +18,7 @@ struct YourApp: App {
   var body: some Scene {
     WindowGroup {
       NavigationStack {
-          RootView()
+          ContentView()
       }
     }
   }
