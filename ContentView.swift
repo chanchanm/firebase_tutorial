@@ -14,7 +14,7 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .padding()
             
-            Text("Welcome to the app!")
+            Text("Starting again from scratch")
                 .font(.title2)
                 .foregroundColor(.secondary)
         }
